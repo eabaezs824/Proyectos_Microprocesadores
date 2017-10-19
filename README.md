@@ -5,3 +5,4 @@ Este proyecto tiene como fin realizar todos retos planteados en el semestre, baj
 Miembros:
 -- Leonardo Martinez
 ----Juan Camilo Torrez
+----Edwin Baez
